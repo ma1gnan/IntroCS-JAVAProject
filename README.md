@@ -1,5 +1,6 @@
 # IntroCS-JAVAProject
 Georgia State University CSC 1302 - Group Project
+
 By: Deborah Maignan & Joseph Thekveli
 # Dice Boss Fighter
 
